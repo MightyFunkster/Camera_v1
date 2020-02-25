@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="camera_node" type="camera_node" name="cameras" output="screen">
+    </node>
+</launch>
