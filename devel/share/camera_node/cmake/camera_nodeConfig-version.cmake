@@ -1,0 +1,1 @@
+/home/alfonso/Documents/Camera_v1/devel/.private/camera_node/share/camera_node/cmake/camera_nodeConfig-version.cmake
