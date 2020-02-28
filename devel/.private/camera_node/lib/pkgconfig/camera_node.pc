@@ -1,0 +1,8 @@
+prefix=/home/alfonso/Documents/Camera_v1/devel/.private/camera_node
+
+Name: camera_node
+Description: Description of camera_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs image_transport cv_bridge
